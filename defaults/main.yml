@@ -5,6 +5,7 @@
 ubtu18cis_oscap_scan: false
 ubtu18cis_report_dir: /tmp
 
+# test
 ubtu18cis_section1_patch: true
 ubtu18cis_section2_patch: true
 ubtu18cis_section3_patch: true
